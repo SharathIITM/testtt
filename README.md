@@ -1,2 +1,1 @@
-# testtt
-Demo repository for CI/CD workflow badge
+[![CI](https://github.com/SharathIITM/testtt/actions/workflows/ci.yml/badge.svg)](https://github.com/SharathIITM/testtt/actions/workflows/ci.yml)
